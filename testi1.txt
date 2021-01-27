@@ -29,13 +29,6 @@ Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
   <li>uiskentelu</li>
 </ul>
 
-<h2><strong>NJAPEN LEMPIRUUAT</strong></h2>
-
-<ol>
-  <li>maksalaatikko1</li>
-  <li>maksalaatikko2</li>
-  <li>maksalaatikko3</li>
-</ol>
 
 </body>
 </html>  
