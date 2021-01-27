@@ -22,12 +22,6 @@ Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
 
 <h2><strong>NJAPEN OMINAISUUDET</strong></h2>
 
-<ul>
-  <li>Kuristaminen</li>
-  <li>vihaisuus</li>
-  <li>hi-hat -rummutus</li>
-  <li>uiskentelu</li>
-</ul>
 
 
 </body>
