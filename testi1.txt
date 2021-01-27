@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <meta charset="utf-8">
+  <title>HTML: Text emphasis</title>
+   </head>
+ 
+ <body>
+  <h1>Njappe on kuningas ja sanoo byyher</h1>
+  
+  <h2>Njapen valtakunta on paras</h2>
+  
+<p>Njappe on taistelukala. Taistelukalat yleensä elävät 3 vuotta, njappe on jo 15 vuotta vanha.
+Njapen lempiaktiviteetteja ovat kuplapesän rakentaminen, kasvien alla piileskely, ruuan mutustaminen, pienempien kalojen kiusaaminen ja kuristaminen.
+Aina silloin tällöin njappe piiloutuu luolaan ja kurkistaa sieltä.</p>
+
+<h2>Njapen valtakunta</h2>
+
+<p>Koko akvaario on njapen hallussa BYYYYYYY KURISTANNNN BYYYYYYY
+Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
+
+</body>
+</html>  
