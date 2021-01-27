@@ -26,6 +26,7 @@ Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
  <li>maksalaatikko</li>
  <li>maksalaatikko</li>
  <li>maksalaatikko</li>
+ </ul>
  
 <h2><strong>NJAPEN MIELIPUUHAT</strong></h2>
  
@@ -33,6 +34,9 @@ Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
   <li>kuristaa</li>
   <li>uiskennella</li>
   <li><em>mutustaa</em></li>
+ </ol>
+
+<img src="DheeU9XUYAM_0VO.jpg" alt="njapenkaltainentaistelukala"> 
 
 </body>
 </html>  
