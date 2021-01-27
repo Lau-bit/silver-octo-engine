@@ -20,6 +20,19 @@ Aina silloin tällöin njappe piiloutuu luolaan ja kurkistaa sieltä.</p>
 <p>Koko akvaario on <em>njapen</em> hallussa BYYYYYYY KURISTANNNN BYYYYYYY
 Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
 
+<h2>NJAPEN LEMPIRUUAT</h2>
+
+<ul>
+ <li>maksalaatikko</li>
+ <li>maksalaatikko</li>
+ <li>maksalaatikko</li>
+ 
+<h2><strong>NJAPEN MIELIPUUHAT</strong></h2>
+ 
+ <ol>
+  <li>kuristaa</li>
+  <li>uiskennella</li>
+  <li><em>mutustaa</em></li>
 
 </body>
 </html>  
