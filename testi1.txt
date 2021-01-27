@@ -32,9 +32,9 @@ Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
 <h2><strong>NJAPEN LEMPIRUUAT</h2>
 
 <ol>
-  <li>maksalaatikko</li>
-  <li>maksalaatikko</li>
-  <li>maksalaatikko</li>
+  <li>maksalaatikko1</li>
+  <li>maksalaatikko2</li>
+  <li>maksalaatikko3</li>
 </ol>
 
 </body>
