@@ -2,10 +2,10 @@ body {
   background-color: pink;
   }
 h1 {
-  color: magenta;
+  color: magenta; text-align: center;
 }
 h2 {
-  color: magenta;
+  color: magenta; text-align: center;
 }
 p {
   color: blue;
@@ -15,10 +15,4 @@ ul.a {
 }
 p#njabulis {
 	font-size:8px;
-}
-div.a {
-	text-align: center;
-}
-div.b {
-	text-align: center;
 }
