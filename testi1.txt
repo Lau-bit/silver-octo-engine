@@ -14,18 +14,24 @@
    </head>
  
  <body>
+ <div class="a">
   <h1><strong>Njappe on kuningas</strong> ja sanoo byyher</h1>
   
   <h2><em>Njapen</em> valtakunta on paras</h2>
+</div>
   
-<p class="outset"><em>Njappe</em> on taistelukala. Taistelukalat yleensä elavat 3 vuotta, njappe on jo 15 vuotta vanha.
+  <p class="outset"><em>Njappe</em> on taistelukala. Taistelukalat yleensä elavat 3 vuotta, njappe on jo 15 vuotta vanha.
 Njapen lempiaktiviteetteja ovat kuplapesan rakentaminen, kasvien alla piileskely, ruuan mutustaminen, pienempien kalojen kiusaaminen ja kuristaminen.
 Aina silloin tällöin njappe piiloutuu luolaan ja kurkistaa sieltä.</p>
 
+<div class="b">
 <h2><strong>Njapen</strong> valtakunta</h2>
 
-<p class="outset">Koko akvaario on <em>njapen</em> hallussa BYYYYYYY KURISTANNNN BYYYYYYY
+</div>
+
+  <p class="outset">Koko akvaario on <em>njapen</em> hallussa BYYYYYYY KURISTANNNN BYYYYYYY
 Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
+
 
 <h2><strong>NJAPEN LEMPIRUUAT</strong></h2>
 
