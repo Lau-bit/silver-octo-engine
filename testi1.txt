@@ -40,10 +40,15 @@ Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
  <ol>
   <li>kuristaa</li>
   <li>uiskennella</li>
-  <li><em>mutustaa</em></li>
+  <li><em>mutustaa*</em></li>
  </ol>
 
 <img src="DheeU9XUYAM_0VO.jpg" alt="njapenkaltainentaistelukala"> 
+<p><em>Njappe oli tämän näköinen, vaaleanpunainen taistelukala</em></p>
+
+
+
+<p id="njabulis">*Njappe mutusti maksalaatikkoa useita kertoja päivässä. Njappe oli hyvin syönyt taistelukala.</p>
 
 </body>
 </html>  

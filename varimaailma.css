@@ -11,5 +11,8 @@ p {
   color: blue;
 }
 ul.a {
-  list-style-type: circle;
+  list-style-type: square;
+}
+p#njabulis {
+	font-size:8px;
 }
