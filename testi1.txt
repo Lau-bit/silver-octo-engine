@@ -14,7 +14,7 @@
    </head>
  
  <body>
- 
+ <div class="a">
   <h1><strong>Njappe on kuningas</strong> ja sanoo byyher</h1>
   
   <h2><em>Njapen</em> valtakunta on paras</h2>
@@ -48,7 +48,7 @@ Kaikki muut kalat ovat paskoja, minä olen paras shyhyhyhyhyhy
   <li>uiskennella</li>
   <li><em>mutustaa*</em></li>
  </ol>
-
+</div>
 <img src="DheeU9XUYAM_0VO.jpg" alt="njapenkaltainentaistelukala"> 
 <p><em>Njappe oli tämän näköinen, vaaleanpunainen taistelukala</em></p>
 

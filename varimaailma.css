@@ -1,5 +1,5 @@
 body {
-  background-color: pink; text-align: center;
+  background-color: pink;
   }
 h1 {
   color: magenta; text-align: center;
@@ -15,4 +15,7 @@ ul.a {
 }
 p#njabulis {
 	font-size:8px;
+}
+div.a {
+	text-align: center;
 }
