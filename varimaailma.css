@@ -6,7 +6,7 @@ body {
 	overflow: hidden
 }
 .topnav a {
-  float: center;
+  float: left;
   color: salmon;
   text-align: center;
   padding: 14px 16px;
