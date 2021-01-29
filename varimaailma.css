@@ -18,7 +18,7 @@ body {
   color: black;
 }
 .topnav a.active {
-  background-color: coral;
+  background-color: salmon;
   color: white;
 }
 h1 {
