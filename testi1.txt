@@ -15,6 +15,12 @@
    </head>
  
  <body>
+<div class="topnav">
+  <a class="active" href="#home">Njapen koti</a>
+  <a href="#luola</a>Luola</a>
+  <a href="#yhteystiedot">Yhteystiedot</a>
+  <a href="#tietoa">Tietoa</a>
+</div>  
  <div class="a">
   <h1><strong>Njappe on kuningas</strong> ja sanoo byyher</h1>
   
