@@ -17,7 +17,7 @@
  <body>
 <div class="topnav">
   <a class="active" href="#home">Njapen koti</a>
-  <a href="#luola</a>Luola</a>
+  <a href="#luola">Luola</a>
   <a href="#yhteystiedot">Yhteystiedot</a>
   <a href="#tietoa">Tietoa</a>
 </div>  
