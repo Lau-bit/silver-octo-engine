@@ -11,7 +11,7 @@ p {
   color: blue;
 }
 li {
-  border: 1px solid black;
+  border-style: 1px solid black;
 }
 p#njabulis {
 	font-size:8px;
