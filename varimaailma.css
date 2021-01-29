@@ -10,14 +10,10 @@ h2 {
 p {
   color: blue;
 }
-ul class: a {
+ul {
 	border: 1px solid black;
-	padding-right: 0px;
-	padding-left: 28px;
-	width: 50px;
-	border-radius;5px;
 }
-}
+
 p#njabulis {
 	font-size:8px;
 }
